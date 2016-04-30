@@ -1,0 +1,7 @@
+*._*
+.DS_Store
+*.pkg.tar.gz
+*.pkg.tar.xz
+*.pkg.tar
+pkg/
+src/
